@@ -45,6 +45,7 @@ const Feautures = () => {
 };
 
 type feutureItem = {
+  src: string;
   title: string;
   icon: string;
   variant: string;
